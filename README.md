@@ -12,6 +12,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Uma simples pagina do Starbucks com algumas alteração no troca de escolha do seu café.
+Uma simples pagina do Starbucks com interação na troca da escolha do seu café.
 
 - [Visite o projeto online](https://guiilhermelsantos.github.io/Projeto-Starbucks/)
